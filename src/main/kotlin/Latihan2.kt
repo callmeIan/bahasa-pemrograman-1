@@ -3,9 +3,8 @@ fun main() {
   //println("Nama: Destyan Yoga A")
   //println("Alamat  : Yogyakarta")
   //println("Jurusan : Sistem Imformasi")
-}
+
   //pertemuan 2
-  fun main (args: Array<String>){
   var namaLengkap: String = "Destyan Yoga A"
   var alamat: String
   alamat = "Yogyakarta"
@@ -14,5 +13,9 @@ fun main() {
   println(namaLengkap)
   println(alamat)
   println(umur)
+
+  var namaLengkap2 = "Yoga"
+  namaLengkap = "Destyan Yoga A"
+  println(namaLengkap2)
 }
 
